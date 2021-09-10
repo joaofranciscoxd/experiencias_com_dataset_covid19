@@ -7,8 +7,8 @@ Utulizei o acelerador de hardware do google colab do tipo GPU. Também tentei li
 No tutorial do Canal Sandeco, ele obtem uma acurácia de 96,15%. Obtive utilizando os 3616 primeiros dados do dataset a acurária de 96,85%.
 
 ## 1. Redução das amostras e diminuição na redução de escala
-Utilizando somente 1250 amostras para cada caso, foi possível utilizar uma redução de escala de 0.85. Esta mudança acabou gerando uma acurácia de 97,76%, sensitividade de 98,4% e
-especificidade de 97,12%.
+Utilizando somente 1250 amostras para cada caso, foi possível utilizar uma redução de escala de 0.85. Esta mudança acabou gerando uma acurácia de 97.76%, sensitividade de 98.4% e
+especificidade de 97.12%.
 
 ## Acurácia
 ![alt text](https://raw.githubusercontent.com/joaofranciscoxd/experiencias_com_dataset_covid19/main/acuracia%20do%20modelo.png)
