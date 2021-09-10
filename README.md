@@ -10,4 +10,4 @@ No tutorial do Canal Sandeco, ele obtem uma acurácia de 96,15%. Obtive utilizan
 ## Perda
 ![alt text](https://raw.githubusercontent.com/joaofranciscoxd/experiencias_com_dataset_covid19/main/perda%20do%20modelo.png)
 ## Matriz confusão
-![alt text](https://raw.githubusercontent.com/joaofranciscoxd/experiencias_com_dataset_covid19/main/matriz%20confus%C3%A3o.png)
+![alt text](https://raw.githubusercontent.com/joaofranciscoxd/experiencias_com_dataset_covid19/main/matriz%20confus%C3%A3o.png  )
